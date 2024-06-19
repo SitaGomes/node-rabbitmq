@@ -1,0 +1,6 @@
+export type UserStock = {
+  id: string;
+  name: string;
+  price: number;
+  quantity: number;
+};
